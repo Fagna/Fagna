@@ -1,16 +1,36 @@
-### Hi there 👋
+### Fagna Felix 🧠
 
-<!--
-**Fagna/Fagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagna-felix-8116a8218/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mariafagna)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/326042/fagna)
 
-Here are some ideas to get you started:
+### Sobre 👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bacharela em Estatística pela Universidade Estadual da Paraíba, conhecimento das linguagens de programação R, Python e SQL, experiência com as principais bibliotecas em R e Python para análises estatísticas, modelagem e visualização de dados.
+
+### Projetos 📈 💻 📊
+
+- **Inadimplência de clientes de cartão de crédito:** Uso de testes estatísticos e modelagem usando aprendizado de máquina. O projeto pode ser acessado no repositório [Projeto Inadimplencia de clientes](https://github.com/Fagna/Projeto_Inadimplencia_de_clientes/).
+
+
+
+#### Técnologias que uso regularmente.
+
+
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+
+ #### Técnologias que não uso com tanta frequência, mas já tive algum contato.
+ 
+ [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+ [![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://support.microsoft.com/en-us/powerpoint)
+ [![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://support.microsoft.com/en-us/word)
+ [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+ [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+  
+### Desempenho no GitHub  
+
+![Fagna](https://github-readme-stats.vercel.app/api?username=Fagna&show_icons=true&theme=transparent)
