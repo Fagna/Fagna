@@ -10,7 +10,7 @@ Bacharela em Estatística pela Universidade Estadual da Paraíba, conhecimento d
 
 ### Projetos 📈 💻 📊
 
-- **Inadimplência de clientes de cartão de crédito:** Uso de testes estatísticos e modelagem usando aprendizado de máquina. O projeto pode ser acessado no repositório [Projeto Inadimplencia de clientes](https://github.com/Fagna/Projeto_Inadimplencia_de_clientes/).
+- **Inadimplência de clientes de cartão de crédito:** Uso de testes estatísticos e modelagem usando aprendizado de máquina. O projeto pode ser acessado no repositório [Projeto Inadimplência de clientes](https://github.com/Fagna/Projeto_Inadimplencia_de_clientes/).
 
 
 
