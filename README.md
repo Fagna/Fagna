@@ -10,7 +10,7 @@ Bacharela em Estatística pela Universidade Estadual da Paraíba, conhecimento d
 
 ### Projetos 📈 💻 📊
 
-- **Inadimplência de clientes de cartão de crédito:** Uso de testes estatísticos e modelagem usando aprendizado de máquina. O projeto pode ser acessado no repositório [Projeto Inadimplência de clientes](https://github.com/Fagna/Projeto_Inadimplencia_de_clientes/).
+- **Previsão de inadimplência de clientes de cartão de crédito:** Uso de testes estatísticos e modelagem usando aprendizado de máquina. Obtido um modelo que prevê o status de pagamento do cliente no próximo mês, com base em informação como, limite de crédito, estado civil, escolaridade, sexo, idade e informações sobre histórico de faturas e pagamentos nos últimos 6 meses. O projeto pode ser acessado no repositório [Projeto Inadimplência de clientes](https://github.com/Fagna/Projeto_Inadimplencia_de_clientes/), detalhes no README e Jupyter notebook.
 
 
 
@@ -23,7 +23,7 @@ Bacharela em Estatística pela Universidade Estadual da Paraíba, conhecimento d
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 
- #### Técnologias que não uso com tanta frequência, mas já tive algum contato.
+ #### Técnologias que não uso com tanta frequência, mas tenho conhecimento.
  
  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
  [![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://support.microsoft.com/en-us/powerpoint)
