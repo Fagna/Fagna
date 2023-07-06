@@ -6,7 +6,7 @@
 
 ### Sobre 👩🏻‍💻
 
-Bacharela em Estatística pela Universidade Estadual da Paraíba, conhecimento das linguagens de programação R, Python e SQL, experiência com as principais bibliotecas em R e Python para análises estatísticas, modelagem e visualização de dados.
+Bacharela em Estatística pela Universidade Estadual da Paraíba, conhecimento das linguagens de programação R, Python e SQL, experiência com as principais bibliotecas em R e Python para análises estatísticas, modelagem e visualização de dados. Meu Trabalho de Conclusão de Curso (TCC) teve como título: Uso de Machine Learning para classificação de risco de óbitos por covid-19 no estado de Mato Grosso. Acesse este [link](https://github.com/Fagna/Classificacao-de-risco-de-obitos-por-Covid-19) para ter acesso ao código e texto do trabalho. Foi obtido um modelo capaz de classificar corretamente o risco de óbito por covid-19 em 80% dos casos.
 
 ### Projetos 📈 💻 📊
 
